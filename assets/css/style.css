@@ -3,19 +3,13 @@ body {
     background-image: url("/Users/chrisg/Desktop/bootcamp/github/chrisgportfolio/assets/images/background.jpeg");
     background-size: cover;
 }
-.container {
-    border: 1px solid red;
-    margin: 10px 50px 10px 50px;
-}
-.row {
-    border: 1px solid blue;
+
+.col-md {
+    border: 1px transparent;
     margin: 10px 50px 10px 50px;
     background-color: white;
 }
-.col-md {
-    border: 1px solid green;
-    margin: 10px 50px 10px 50px;
-}
+
 img {
     margin: 40px;
 }
