@@ -1,1 +1,23 @@
-body {background-color: bisque;}
+body {
+    background-color: #fafafa;
+    background-image: url("/Users/chrisg/Desktop/bootcamp/github/chrisgportfolio/assets/images/background.jpeg");
+    background-size: cover;
+}
+.wrapper {
+    border: 1px solid red;
+    margin: 10px 50px 10px 50px;
+}
+.main {
+    border: 1px solid blue;
+    margin: 10px 50px 10px 50px;
+    background-color: white;
+}
+.title {
+    border: 1px solid green;
+    margin: 10px 50px 10px 50px;
+}
+.body {
+    border: 1px solid pink;
+    margin: 10px 50px 10px 50px;
+}
+
