@@ -1,6 +1,6 @@
 body {
     background-color: #fafafa;
-    background-image: url("/Users/chrisg/Desktop/bootcamp/github/chrisgportfolio/assets/images/background.jpeg");
+    background-image: url("../images/background.jpeg");
     background-size: cover;
 }
 
